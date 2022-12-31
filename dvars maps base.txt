@@ -1,0 +1,11 @@
+base maps
+
+if(getDvar("mapname") == "zm_prison") //mob of the dead
+
+if(getDvar("mapname") == "zm_highrise") //die rise
+
+if(getDvar("mapname") == "zm_buried") //buried
+
+if(getDvar("mapname") == "zm_nuked") //nuketown
+
+if(getDvar("mapname") == "zm_transit") //tranzit
